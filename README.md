@@ -227,7 +227,7 @@ terraform destroy
 
 ### AWS Infrastructure Overview
 
-!(project1.png)
+![Architecture Diagram](screenshots/project1.png)
 
 The screenshot demonstrates the deployed AWS infrastructure, including:
 
